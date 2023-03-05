@@ -1,8 +1,4 @@
-#+TITLE: Adversarial Classifier
-
-This repo contains the code to reproduce the experiment in our paper
-(https://arxiv.org/abs/1704.04960), specifically the code to generate
-the figures and tables.
+#+TITLE: Adversarial Classifier In Mitigating Unfairness of Adversarial Training
 
 * Code Dependencies
 :PROPERTIES:
@@ -22,11 +18,3 @@ the figures and tables.
 
 We used MNIST, CIFAR10 and SVHN in our experiment.
 
-* Document
-:PROPERTIES:
-:CUSTOM_ID: sec:document
-:END:
-
-The paper itself is written in Org mode (http://orgmode.org/)
-employing the ICML2017 LaTeX template, with slight modification, i.e.,
-removing the conference information.
