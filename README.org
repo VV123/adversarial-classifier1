@@ -1,18 +1,12 @@
 #+TITLE: Adversarial Classifier In Mitigating Unfairness of Adversarial Training
 
 * Code Dependencies
-:PROPERTIES:
-:CUSTOM_ID: sec:code-dependencies
-:END:
+
 
 1. Python 3.6+
 2. Keras https://keras.io/
 3. Tensorflow https://tensorflow.org
 
-* Datasets
-:PROPERTIES:
-:CUSTOM_ID: sec:datasets
-:END:
 
 We used MNIST, CIFAR10 and SVHN in our experiment.
 
