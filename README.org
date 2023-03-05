@@ -8,8 +8,6 @@
 1. Python 3.6+
 2. Keras https://keras.io/
 3. Tensorflow https://tensorflow.org
-4. tensorflow-adversarial
-   https://github.com/gongzhitaao/tensorflow-adversarial
 
 * Datasets
 :PROPERTIES:
