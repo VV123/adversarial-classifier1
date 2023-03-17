@@ -1,4 +1,4 @@
-#+TITLE: Adversarial Classifier In Mitigating Unfairness of Adversarial Training
+#+TITLE: Detecting Adversarial Data In Supporting Secure AI Systems
 
 * Code Dependencies
 
